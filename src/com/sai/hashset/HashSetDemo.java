@@ -18,12 +18,7 @@ public class HashSetDemo {
 		// TODO Auto-generated method stub
 		
 		HashSet<String> hs = new HashSet<String>();
-		hs.add("Hey");
-		hs.add("Hi");
-		System.out.println(hs.add("Hey"));
-		hs.add(null);
-		System.out.println("In HashSet Insertion Order is Preserved");
-		System.out.println(hs);
 
 	}
+
 }
